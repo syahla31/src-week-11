@@ -6,7 +6,7 @@
 >
 > Kelas   : TI - 3G
 >
-> Link Github : https://github.com/syahla31/
+> Link Github : https://github.com/syahla31/src-week-11.git
 
 ## Praktikum 1: Dasar State dengan Model-View
 
@@ -260,7 +260,7 @@ class _PlanCreatorScreenState extends State<PlanCreatorScreen> {
     > Transisi antara keduanya terjadi saat pengguna beralih antara pembuatan rencana (PlanCreatorScreen) dan melihat rencana yang sudah ada (PlanScreen).
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
     
-    <img width="400" alt="gif" src="gambar/praktikum3.gif">
+    <img width="400" alt="gif" src="gambar/Praktikum3.gif">
 
     > Diagram sebelah kiri adalah tahap pembuatan rencana baru dalam aplikasi, di mana pengguna berinteraksi dengan PlanCreatorScreen. Data rencana dan daftar rencana dikelola oleh PlanProvider di bawah MaterialApp, dengan layout menggunakan Column dan Expanded.
 
